@@ -14,6 +14,11 @@
 		</author>
 	</authors>
 	<releases>
+		<release version="1.22" date="2022-11-30" min="2.4" max="2.x.x">
+			- Update [HTML Purifier](http://htmlpurifier.org/) to 4.15.0
+			- Update [PHP Markdown Extra](http://michelf.com/projects/php-markdown/) to 2.0.0
+			- Update [PHP SmartyPants](http://michelf.ca/projects/php-smartypants/) to 1.8.1
+		</release>
 		<release version="1.21" date="2015-01-23" min="2.4" max="2.x.x">
 			- Mark compatibility with Symphony 2.x.x
 		</release>
